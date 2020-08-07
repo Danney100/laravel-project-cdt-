@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "corded-dragon-248320",
+  "private_key_id": "aa243930ef565f2a0c7dcddc92404447b0a70886",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmrLer/8TKkfRl\nIbUgpE2RTgAI+S9fDe1y+EPavN9DKChjUila7YzeuAlvCp+/F3cqZzZ9v+PkTfHC\nVItspRBI/OpM7ayjSP5OxsAo8aTm9pA+xyuCATHnA7lBZAUdwh5mkBmgAtjQ7Elz\n3QUKHdn09jHwBQ6qi/OBtEd3x+KfnKiAV16v/9kBEcKBe1A7DGCyrkJMSicGHipq\nHMxqd+gz/cxUkwQ1RoMwLS4YiGkFHStugj35Z66rtx0m5aKz8oivhh/Y/oGufe3y\nZviXt7lskyf5hQyyHpMDcy/W8oFCpDSY8ia68tvj/CIbpuUpzHpoIm/ZyKX+H0hP\nVNqOWYGNAgMBAAECggEAJDyCPSiA+BqF1BPhPWzDOW9IFitYx3VvdZKwq+Zqsr7R\nExDakVx6hzRjRqs8Yk7/dy5T3ECDExB4GmwHmPIFCZ1E8j8tDJ3yvh07S1uH4rfh\n0eg61wub9hHq7aLJcvgQZHN5Qr7DtR5d9MztSs8FIxsAbeKnluAQ65bOf+Xq6RDL\n/ZTlISRtfZDLIWXPhROsmXT50xNoyVpMLK865GGsqqSNSNRnrLFYxRlv1aaB5ltx\n5aVendQC4ZSHzVW7L29gR52LcpuQT2uwB3C8RMNQpugyM1xdWd4OXyxBe23Sxv0I\nNqFulMGXqAjVZ3uSXTnznSkIsXkonws6K2m0d1EDmQKBgQDUi9yajmKyTgf1T7kl\nyh7LCJ044cG4Y508ZZArm2E4ahSRtTYia71bso2w07ApdwPhVSOYbS2aEImwkbZ7\ngqafmH5URq/6qqPWoBuhi3wha67KYLFDzEILJ7uagldLu5NqX/IhmkNl5M88GNkk\n/uu4YB4ki/V7xCeEREZkLsmSNQKBgQDIwAyPnymexhQNgRWX1NprZhh4WUROzSNa\nHgT5nALq4HpzFPH6QJFKH5Df0AC9of29xRAt9svqdCLwHjJD+jZ1WbWnI/PXAB1j\nSePRl7Eq6YGO2Su9Ld3IupsduqLVGfkAmONSnvf6UDdcZkwMfIhoUcl/2B7U7tGP\nMwpCoKqc+QKBgQC5I3LvdeNmqS2pct41mo+kD0bUC2HwuWR2/YjNUzUmLNDp8szK\nwspYm3lsc5hZJgBNQRoWZdN5BbrKAMLRZwa4sd4ojsIvOIAqLaCj4JopimDgi8Uc\n50kH6n4xoiNkJmnMGPMSbgsTMHGLSaGr5hlxqtfWwcr9GenJ/qbKES8nmQKBgArU\n0dit7cDzTwGrhU673U0OJSPZLSZTSyUBmaMeF8o0cmbjKmsmMLCfI2HwBxo0M0yZ\n5VWVi0sLGRd7iZrBVU7fmD18Yxumle9VfUVBuf1mu+bJMOL0JpM9/kCMYVy+GgE+\nPoWmrhqDWXlSy6eg0HtQbl7HemJiwEvJpTQTFyGBAoGAJYH8SMlM7+P852WtEmx4\nEfDaIinQuNiB592RT4oV5DRz698Gwew7Wnpl4V6/8B+k1XBoq2RdEXcpjUmJuGse\nvQ5p9zZ3OdU2/rra6op/cIysQysQanBcw1NNClDTx0w+90F8nhj+bSQu7CgrZqJM\nm1Va5XGE4kpdo0j/j+w++Mw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cdt-storage-access@corded-dragon-248320.iam.gserviceaccount.com",
+  "client_id": "111823780887648920897",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cdt-storage-access%40corded-dragon-248320.iam.gserviceaccount.com"
+}
